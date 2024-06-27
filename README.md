@@ -2,7 +2,8 @@
 
 
 ## Qualification
-### MSc. Applied Statistics & Analytics, BSc. Physics
+#### MSc. Applied Statistics & Analytics
+#### BSc. Physics
 
 ## Internships
 ### DRS and CO. Mumbai
