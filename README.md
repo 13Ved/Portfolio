@@ -15,11 +15,24 @@
 Software used: MS excel, Tally, Winman  <br>
 
 ## Projects
+### Salary Prediction Webpage
+• Developed a salary prediction web application using Streamlit and Python, using Stack Overflow survey data. <br>
+• Created an interactive explore page for exploratory data analysis, featuring mean salary comparisons by country and industry. <br>
+• Implemented Decision Tree Regression algorithms to model salary predictions based on user inputs and survey variables. <br>
+Software used Python, Streamlit
+
+### Weather Prediction Webpage
+• Developed a Weather application using Flask, HTML, and Python. <br>
+• Implemented a Random Forest classifier to analyze weather patterns and predict conditions based on historical data. <br>
+• Utilized Flask for backend development, HTML for front-end interface, and Python libraries for data processing. <br>
+
+
 ### Survival Analysis of an Employee and Churn Prediction
 •	Using parametric and non-parametric approaches to find out the survival rates of an em-ployee in a company (K-M estimator) <br>
 •	Using Cox regression to estimate the hazard rate and find out the factors for attrition <br>
 •	Using Logistic Regression to model the attrition of employees in the company <br>
 •	Using the stepwise regression approach to get the important factors affecting attrition <br>
+Software used: R studio, MS excel
 
 ### Finding out the probability of Default for consumer loan management 
 •	Using Gaussian mixture model (unsupervised learning method) to find out the probability of default for a given dataset. <br>
