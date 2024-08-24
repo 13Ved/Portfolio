@@ -2,10 +2,12 @@
 
 
 ## Qualification
-#### MSc. Applied Statistics & Analytics
-#### BSc. Physics
+#### MSc. Applied Statistics & Analytics    (06/2023 - 05/2025) <br>
+•3.48/4.00 CGPA  <br>
+#### BSc. Physics                           (08/2020 - 05/2023) <br>
+•8.59/10.00 CGPA <br>
 
-## Internships
+## Internship
 ### DRS and CO. Mumbai
 #### Intern <br>
 •	Organizing and tabulating GST data using excel and tally <br>
@@ -15,17 +17,32 @@
 Software used: MS excel, Tally, Winman  <br>
 
 ## Projects
-### Salary Prediction Webpage
-• Developed a salary prediction web application using Streamlit and Python, using Stack Overflow survey data. <br>
-• Created an interactive explore page for exploratory data analysis, featuring mean salary comparisons by country and industry. <br>
-• Implemented Decision Tree Regression algorithms to model salary predictions based on user inputs and survey variables. <br>
+
+### News Classification Using NLP & LSTM 
+•	Developed a comprehensive machine learning system to classify images of five sports celebrities, showcasing the end to-end process from data collection to deployment.  <br>
+•	Utilized Selenium for Python to scrape and gather images from Getty Images. Applied advanced image processing techniques, including face and eyes detection with OpenCV, to clean and
+prepare the data for model training.  <br>
+•	Trained multiple classifiers, including SVM, logistic regression, and random forest. Achieved a 70% accuracy with the SVM model, demonstrating effective classification performance.  <br>
+•	Enhanced model accuracy using GridSearchCV for hyperparameter tuning. Deployed the final model via a Streamlit application, providing a real-time interface for image classification.  <br>
 Software used Python, Streamlit
+
+### Sports Celebrity Image Classification
+•	Built an LSTM model to sort news articles into categories like World, Sports, Business, and Science/Technology, making classification more accurate.  <br>
+•	Cleaned and prepared the AG News dataset using Natural Language Processing to normalize text and remove extraneous words for effective model training.  <br>
+•	Improved the model's accuracy using methods like tuning settings and cross-validation, and avoided overfitting to get reliable results.  <br>
+Software used Python, Streamlit
+
+### Salary Prediction Webpage
+•	Analysed Stack Overflow survey data to forecast employee salaries with a focus on financial metrics and used machine learning model such as Decision Tree Regression to predict salaries. <br>
+•	Developed an interactive web app with Streamlit and Python for users to input financial data, such as compensation and purchase influence, for personalized salary forecasts. <br>
+•	Employed Python for financial modeling and Streamlit for a user- friendly prediction interface <br>
+Software used: Python, Streamlit
 
 ### Weather Prediction Webpage
 • Developed a Weather application using Flask, HTML, and Python. <br>
 • Implemented a Random Forest classifier to analyze weather patterns and predict conditions based on historical data. <br>
 • Utilized Flask for backend development, HTML for front-end interface, and Python libraries for data processing. <br>
-
+Software used: Python, Streamlit
 
 ### Survival Analysis of an Employee and Churn Prediction
 •	Using parametric and non-parametric approaches to find out the survival rates of an em-ployee in a company (K-M estimator) <br>
@@ -35,10 +52,10 @@ Software used Python, Streamlit
 Software used: R studio, MS excel
 
 ### Finding out the probability of Default for consumer loan management 
-•	Using Gaussian mixture model (unsupervised learning method) to find out the probability of default for a given dataset. <br>
-•	Using the Default probability to calculate the expected loss and profit and draw insights <br>
-•	Data cleaning, structuring, scaling, visualizing, using and analysing the Gaussian model <br>
-•	Finding out the model accuracy and comparing the result with SVM model <br>
+•	Apply Gaussian Mixture Model to estimate Probability of Default through unsupervised clustering to identify credit risk patterns. <br>
+•	Integrate PD with risk management to compute Expected Loss, incorporating Loss Given Default and simulating profitability under various economic scenarios. <br>
+•	Evaluate GMM's accuracy against a Support Vector Machine using confusion matrices. <br>
+•	Perform sensitivity tests to assess model stability across different market conditions, aiding in optimal capital reserve decisions and enhancing risk-adjusted returns. <br>
 Software used: R studio, MS excel
 
 ### Perfect Graphs And It’s Applications (Dissertation)
@@ -58,7 +75,7 @@ Reading | Trekking | E-sports | Sports |Social Work
 •	Successfully completed 2 dissertation projects and more than 6 projects in my undergradu-ate degree <br> 
 
 ### Skills
-Python | SQL | Excel | Power Point  | R | SAS | Java | Latex | Tally <br>
+Python | SQL | Excel | Power Point  | R | SAS | Java | Latex | Tally | Power BI <br>
 Data Management| Analytics | Creative Thinking | Adaptability| Research Expertise| Presentation Competency
 
 
