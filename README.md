@@ -8,6 +8,13 @@
 •8.59/10.00 CGPA <br>
 
 ## Internship
+### Quantiphi Analytics Solutions Private Limited
+#### PMO Analyst Intern <br>
+•	Automating Daily Resource Requirement Reports using google sheets <br>
+•	Resource Allocation optimization <br>
+•	Overall Resource supply and Demand Dashboard <br>
+Software used: Google sheets, Google Studio   <br>
+
 ### DRS and CO. Mumbai
 #### Intern <br>
 •	Organizing and tabulating GST data using excel and tally <br>
