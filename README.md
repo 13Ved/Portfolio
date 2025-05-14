@@ -3,7 +3,7 @@
 
 ## Qualification
 #### MSc. Applied Statistics & Analytics    (06/2023 - 05/2025) <br>
-•3.48/4.00 CGPA  <br>
+•3.63/4.00 CGPA  <br>
 #### BSc. Physics                           (08/2020 - 05/2023) <br>
 •8.59/10.00 CGPA <br>
 
