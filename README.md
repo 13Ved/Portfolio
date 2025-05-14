@@ -25,7 +25,7 @@ Software used: MS excel, Tally, Winman  <br>
 
 ## Projects
 
-### News Classification Using NLP & LSTM 
+### Sports Celebrity Image Classification  
 •	Developed a comprehensive machine learning system to classify images of five sports celebrities, showcasing the end to-end process from data collection to deployment.  <br>
 •	Utilized Selenium for Python to scrape and gather images from Getty Images. Applied advanced image processing techniques, including face and eyes detection with OpenCV, to clean and
 prepare the data for model training.  <br>
@@ -33,8 +33,8 @@ prepare the data for model training.  <br>
 •	Enhanced model accuracy using GridSearchCV for hyperparameter tuning. Deployed the final model via a Streamlit application, providing a real-time interface for image classification.  <br>
 Software used Python, Streamlit
 
-### Sports Celebrity Image Classification
-•	Built an LSTM model to sort news articles into categories like World, Sports, Business, and Science/Technology, making classification more accurate.  <br>
+### News Classification Using NLP & Naive Bayes'
+•	Built a Naive Bayes' model to sort news articles into categories like World, Sports, Business, and Science/Technology, making classification more accurate.  <br>
 •	Cleaned and prepared the AG News dataset using Natural Language Processing to normalize text and remove extraneous words for effective model training.  <br>
 •	Improved the model's accuracy using methods like tuning settings and cross-validation, and avoided overfitting to get reliable results.  <br>
 Software used Python, Streamlit
