@@ -3,23 +3,21 @@
 
 ## Qualification
 #### MSc. Applied Statistics & Analytics    (06/2023 - 05/2025) <br>
-•3.63/4.00 CGPA  <br>
+•3.67/4.00 CGPA  <br>
 #### BSc. Physics                           (08/2020 - 05/2023) <br>
 •8.59/10.00 CGPA <br>
 
 ## Internship
 ### Quantiphi Analytics Solutions Private Limited
 #### PMO Analyst Intern <br>
-•	Automating Daily Resource Requirement Reports using google sheets <br>
+•	Automating Daily Resource Requirement Reports using google sheets and appscript <br>
 •	Resource Allocation optimization <br>
-•	Overall Resource supply and Demand Dashboard <br>
+•	Overall Resource supply and demand dashboard <br>
 Software used: Google sheets, Google Studio   <br>
 
 ### DRS and CO. Mumbai
 #### Intern <br>
 •	Organizing and tabulating GST data using excel and tally <br>
-•	Filing out the GST reports <br>
-•	Utilized Tally to keep track of data and financial information <br>
 •	Generating tax reports <br>
 Software used: MS excel, Tally, Winman  <br>
 
